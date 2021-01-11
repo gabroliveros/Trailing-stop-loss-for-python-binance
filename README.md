@@ -9,7 +9,7 @@ This is a simple trailing stop-loss for the Binance API that helps you avoid los
 The use of this code is your complete responsibility when you decide to clone it and use it. The author of the code is exempt from liability for any loss of money that you may have in trading operations. Please review the code thoroughly before implementing it and put it to the test before executing actual operations.
 
 
-Why is it better than other trailing systems?
+# Why is it better than other trailing systems?
 
 1) You can use it for any cryptocurrency. You are not limited to a specific pair.
 
@@ -30,7 +30,7 @@ Un simple Trailing stop-loss para la API de Binance que te ayuda a evitar pérdi
 La utilización de este código es de tu completa responsabilidad cuando decides clonarlo y utilizarlo. El autor del código queda excento de responsabilidad ante cualquier pérdida de dinero que pudieras tener en operaciones de trading. Por favor, revisa bien el código antes de implementarlo y ponlo a prueba antes de ejecutar operaciones reales.
 
 
-¿Por qué es mejor que otros sistemas de trailing? 
+# ¿Por qué es mejor que otros sistemas de trailing? 
 
 1) Lo puedes utilizar para cualquier criptomoneda. No estás limitado a un par en específico.
 
