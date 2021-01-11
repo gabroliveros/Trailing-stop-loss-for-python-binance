@@ -1,0 +1,21 @@
+# Instructions:
+
+1) The variable "point" allows to obtain the price at which the cryptocurrency was acquired. You must place this variable in your purchase code and assign it the value at which the purchase order was executed.
+.
+2) Obtaining the data relative to the closing price is adjusted to the interval of 5 minutes. If you work in another time interval you must modify it.
+
+3) The margin of the trailing stop-loss can be adjusted to 30, 40 or 50% of the current price. Keep in mind that it works in percentage and not in pips.
+
+4) When the price exceeds the minimum profit that you want to accept plus the margin of the trailing stop-loss then a sell limit order will be placed. As the price rises, the previous order is canceled and a new one is placed.
+
+--------------------------------------------###--------------------------------------------
+
+# Instrucciones:
+
+1) La variable "point" permite obtener el precio al cual fue adquirida la criptomoneda. Debes colocar esta variable en tu código de compra y asignarle el valor al cual la orden de compra fue ejecutada.
+.
+2) La obtención de los datos relativos al precio de cierre está ajustada al intervalo de 5 minutes. Si trabajas en otro intervalo de tiempo debes modificarlo.
+
+3) El margen del trailing stop-loss lo puedes ajustar al 30, 40 o 50% del precio actual. Ten en cuenta que funciona en porcentaje y no en pips.
+
+4) Cuando el precio supera la ganancia mínima que quieres aceptar más el margen del trailing stop-loss entonces se colocará una orden límite de venta. A medida que sube el precio se cancela la orden anterior y se coloca una nueva.
