@@ -8,7 +8,7 @@ import time
 p= ['ETHUSDT','BTCUSDT','any other pair you want to trade']
 c= ['ETH','BTC','any other']
 
-
+#def
 # <<<<<TRAILING STOP LOSS >>>>> 
 #==============================
 def trailing():
